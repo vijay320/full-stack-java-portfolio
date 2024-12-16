@@ -21,8 +21,9 @@ Welcome to my Full Stack Java Developer portfolio! This repository showcases my 
 4. [Projects](#projects)
 5. [Skills](#skills)
 6. [Resources](#resources)
-7. [Practice Questions](#practice-questions)
-8. [Contact](#contact)
+7. [How to Use This Repository](#how-to-use-this-repository)
+8. [Practice Questions](#practice-questions)
+9. [Contact](#contact)
 
 ## About Me
 
@@ -209,25 +210,29 @@ I am an aspiring Full Stack Java Developer with a passion for building robust, s
 ## Projects
 
 ### Mini Projects
-1. **Calculator:** A simple calculator built using Java.
-2. **Student Management System:** A basic system for managing student records.
-3. **Library Management System:** A system for managing library books and users.
-4. **E-Commerce Back-End:** A back-end for an e-commerce application using Spring Boot.
-5. **Task Management System:** A task management system built with React and Spring Boot.
+
+1. **Simple Calculator** - A basic calculator built using Java and Swing.
+2. **Student Management System** - A system with basic CRUD operations for managing students.
+3. **Library Management System** - A system to manage books and borrowers using Java and MySQL.
+4. **E-Commerce Back-End** - A basic back-end for an e-commerce application using Spring Boot.
+5. **Task Management System** - A task management system built with React and Spring Boot.
 
 ### Intermediate Projects
-1. **Real-Time Chat Application:** A chat application using WebSocket and Spring Boot.
-2. **Social Media Platform:** A platform with user authentication and post management.
-3. **Blogging Platform:** A platform for creating and managing blog posts and comments.
-4. **Quiz Application:** A quiz app with multiple-choice questions and scoring.
-5. **File-Sharing Application:** An application for sharing files using Spring Boot and React.
+
+1. **Real-Time Chat Application** - A chat application using WebSocket and Spring Boot.
+2. **Social Media Platform** - A platform with user authentication and post management.
+3. **Blogging Platform** - A platform with CRUD operations for posts and comments.
+4. **Quiz Application** - A quiz app with multiple-choice questions and scoring.
+5. **File-Sharing Application** - A file-sharing app using Spring Boot and React.
 
 ### Advanced Projects
-1. **Banking Application:** A full-stack banking app with user authentication and account management.
-2. **E-Commerce Platform:** A full-stack e-commerce platform with product listings and shopping cart.
-3. **Job Portal:** A platform for job listings and application tracking.
-4. **Collaborative Document Editor:** A real-time document editor using React, Spring Boot, and WebSocket.
-5. **Healthcare Management System:** A system for managing patient records and appointments.
+
+1. **Full-Stack Banking Application** - A banking app with user authentication, account management, and transaction history.
+2. **Full-Stack E-Commerce Platform** - An e-commerce platform with product listings, shopping cart, and payment integration.
+3. **Job Portal** - A job portal with user profiles, job listings, and application tracking.
+4. **Real-Time Collaborative Document Editor** - A document editor using React, Spring Boot, and WebSocket.
+5. **Healthcare Management System** - A system for managing patient records, appointment scheduling, and doctor profiles.
+
 
 ## Skills
 
@@ -260,7 +265,34 @@ I am an aspiring Full Stack Java Developer with a passion for building robust, s
 - [HackerRank](https://www.hackerrank.com/)
 - [CodeChef](https://www.codechef.com/)
 
+## How to Use This Repository
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/full-stack-java-portfolio.git
+   ```
+
+2. **Navigate to a Project:**
+   ```bash
+   cd full-stack-java-portfolio/projects/mini-projects/calculator
+   ```
+
+3. **Run the Project:**
+   - For Java projects, import the project into your IDE and run it.
+   - For React projects, navigate to the project directory and run:
+     ```bash
+     npm install
+     npm start
+     ```
+
 ## Practice Questions
+
+Throughout my learning journey, I've solved a variety of practice questions to reinforce my understanding of core Java, back-end development, and front-end development. These questions are categorized by topic and difficulty level.
+
+- **Core Java:** Basics, Control Flow, Loops, Arrays, Strings, OOP, Advanced Java.
+- **Back-End:** Java EE, Spring Framework, Database Integration, Advanced Spring.
+- **Front-End:** HTML, CSS, JavaScript, React.
+- **Full Stack Integration:** Connecting Front-End and Back-End, Debugging, and Testing.
 
 ### Week 1: Core Java Basics
 1. Write a program to print "Hello, World!" in Java.
