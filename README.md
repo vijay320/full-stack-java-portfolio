@@ -1,4 +1,4 @@
-Certainly! Below is the complete `README.md` code for your GitHub repository, structured to match the repository layout and content described earlier.
+
 
 ---
 
@@ -364,9 +364,8 @@ I am an aspiring Full Stack Java Developer with a passion for building robust, s
 
 Feel free to reach out to me via email or connect with me on LinkedIn. I'm always open to feedback and collaboration!
 
-- **Email:** [Your Email]
-- **LinkedIn:** [Your LinkedIn Profile]
+- **Email:** [vk86736@gmail.com]
+- **LinkedIn:** [https://www.linkedin.com/in/koder-vijay]
 
 ---
 
-This `README.md` file provides a comprehensive overview of your Full Stack Java Developer journey, including the detailed time table, projects, skills, resources, and practice questions. It is designed to be both informative and visually appealing, making it easy for visitors to understand your progress and expertise.
