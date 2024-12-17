@@ -13,6 +13,8 @@
 
 Welcome to my Full Stack Java Developer portfolio! This repository showcases my journey, projects, and skills as I progress towards becoming a proficient Full Stack Java Developer.
 
+[DOWNLOAD PDF](/Core%20Java%20Learning%20Timeline%20Suggeste1.pdf)
+
 ## Table of Contents
 
 1. [About Me](#about-me)
