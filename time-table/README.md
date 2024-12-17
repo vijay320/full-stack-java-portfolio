@@ -1,5 +1,5 @@
 # Time Table for Full Stack Java Developer Learning Journey
-[DOWNLOAD PDF](/time%20table%20Java%20Full%20Stack%20Development.pdf)
+[DOWNLOAD PDF](/time-table/time%20table%20Java%20Full%20Stack%20Development.pdf)
 
 ## Learning Path
 
